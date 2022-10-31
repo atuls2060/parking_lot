@@ -1,0 +1,1 @@
+console.log("Parking lot created")
